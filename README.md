@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Gargi project <br>👯 I’m doing Fullstack Webdev<br>🤝 I’m Nature lover<br>🌱 I’m currently learning AWS Cloud Computing<br>💬 Ask me about anything<br>⚡ Fun fact
+🔭 I’m currently working on Gargi project <br>👯 I’m doing Fullstack Webdev<br>🤝 I’m Nature lover<br>🌱 I’m currently learning AWS, Oracle Cloud Computing<br>💬 Ask me about anything<br>⚡ Fun fact: 
 
 
 ## 🌐 Socials:
@@ -21,7 +21,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=skvinderr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
