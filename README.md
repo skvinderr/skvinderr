@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Gargi project <br>👯 I’m doing Fullstack Webdev<br>🤝 I’m Nature lover<br>🌱 I’m currently learning AWS, Oracle Cloud Computing<br>💬 Ask me about anything<br>⚡ Fun fact: 
+🔭 I’m currently working on Attendwise project <br>👯 I’m doing Fullstack Webdev<br>🤝 I’m Nature lover<br>🌱 I’m currently learning AWS, Oracle Cloud Computing<br>💬 Ask me about anything<br>⚡ Fun fact: 
 
 
 ## 🌐 Socials:
