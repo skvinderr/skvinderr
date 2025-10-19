@@ -3,7 +3,6 @@
 
 
 ## 🌐 Socials:
-## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white)](https://twitter.com/your-username) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@catecholvibes) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@studyzone) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sci.adityarjpt@gmail.com)
 <!-- Snake Game Repo View -->
 
