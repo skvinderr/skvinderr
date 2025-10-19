@@ -22,6 +22,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=skvinderr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## 🏅 My Holopin Badges
+[![@skvinderr's Holopin board](https://holopin.me/skvinderr)](https://holopin.io/@skvinderr)
+
+
 ### ✍️ Dev Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
